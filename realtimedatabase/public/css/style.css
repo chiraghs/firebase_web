@@ -1,0 +1,96 @@
+body{
+    background: #f4f6f7;
+}
+.entry-title{
+    text-align: center;
+    font-style: italic;
+    color: #383737;
+}
+
+
+#bill-content{
+    height: 100vh;
+    background: #ffffff;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: 10px;
+    margin: 3% 3% 3% 3%;
+    box-shadow:  black;
+
+}
+.dropdown{
+    position: relative;
+}
+.header{
+    background: #ffffff;
+    vertical-align: center;
+    align-content: center;
+    align-items: center;
+}
+.header .row img{
+    width: 50%;
+    margin-left: 11%;
+}
+.header h3{
+margin: 6px 0 0 -10px;
+color: #858585;
+}
+
+
+.header .menu ul{
+margin-top: 10px;
+float: right;
+
+}
+
+
+.header .menu ul li{
+    display: inline;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+
+
+
+.header .menu ul li a{
+    font-size: 18px;
+    color: #858585;
+    padding: 6px;
+    text-decoration: none;
+    border-radius: 4px;
+    border:1px #2679bd solid ;
+}
+
+
+
+.header .menu ul li a:hover{
+    color: #2679bd;
+}
+
+
+
+.signature{
+    border-style: solid;
+  border-width: 2px 10px 4px 20px;
+    border: #000000;
+}
+
+
+
+
+.headersd .form-row{
+    padding:   25px;
+}
+
+.headersdname{
+    margin: 25px;
+}
+
+
+
+.footer{
+    background: #ffffff;
+    float: bottom;
+}
